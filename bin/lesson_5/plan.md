@@ -1,0 +1,3 @@
+- for loops
+- switch case 
+- while

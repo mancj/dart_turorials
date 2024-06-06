@@ -5,6 +5,7 @@ import 'dart:io';
 // stdin
 // breakpoints
 // ctrl + alt + L - форматирует код автоматически
+// lists
 void main() {
   int a = 0;
   String s = "";
